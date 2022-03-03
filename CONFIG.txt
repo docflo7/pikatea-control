@@ -1,0 +1,21 @@
+deejmode=false
+deejSensitivity=32
+
+EncoderConstant=3
+KnobButton=F22
+KnobCW=F20
+KnobCCW=F21
+
+Button1=F15
+Button2=F16
+Button3=F17
+Button4=PlayPause
+Button5=Next
+
+Button1Hold=Ctrl+F15
+Button2Hold=Ctrl+F16
+Button3Hold=Ctrl+F17
+Button4Hold=F22
+Button5Hold=Previous
+
+/Documentation can be found at https://www.pikatea.com/pages/pikatea-macropad-user-guide
